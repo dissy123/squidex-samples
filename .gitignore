@@ -26,3 +26,7 @@ appsettings.Production.json
 launchSettings.json
 .idea/
 /csharp/Squidex.ClientLibrary/Squidex.ClientLibrary/Squidex.ClientLibrary.xml
+
+# Mac
+
+.DS_Store
